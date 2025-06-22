@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+@theme {
+    --color-primary-light: #f0d9b3;
+    /* smooth creamy beige (background tone) */
+    --color-primary-dark: #5c3b1c;
+    /* rich brown (shadow/hair) */
+    --color-light-text: #b78e66;
+    /* muted warm peach (skin highlight/text) */
+    --color-custom-white: #f5f1eb;
+    /* elegant soft white (top label area) */
+    --color-custom-black: #2a1b10;
+    /* deep brown-black (eyeliner/text) */
+}
+
+
+@keyframes fadeInUpBlur {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+        filter: blur(8px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+        filter: blur(0);
+    }
+}
+
+.fade-word {
+    display: inline-block;
+    animation: fadeInUpBlur 0.6s ease-out forwards;
+    opacity: 0;
+}
+
+.fade-in-up-blur {
+    animation: fadeInUpBlur 0.8s ease-out both 2s;
+}
