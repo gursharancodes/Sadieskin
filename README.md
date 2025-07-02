@@ -1,60 +1,94 @@
-# ✨ SadieSkin
+# ✨ SadieSkin – Skincare Product Landing Page
 
-**Where Skincare Meets Science**
-*Luxury serum designed to elevate your natural glow.*
+A luxurious and modern skincare product landing page built with **React** and **Tailwind CSS**, crafted to reflect elegance, purity, and high performance. Designed to drive conversions with focused storytelling, seamless UX, and responsive design.
+
+![React](https://img.shields.io/badge/React-18.x-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-teal)
+![Deployment](https://img.shields.io/badge/Deployed-Cloudflare%20Pages-green)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ---
 
-## 📌 Overview
+## 📘 Table of Contents
 
-**SadieSkin** is a modern, high-converting product landing page built for a premium skincare serum. It features a sleek, elegant design that reflects the luxury and purity of the brand. The website is fully responsive, fast-loading, and crafted to showcase product benefits, brand philosophy, and drive user engagement.
+| Section          | Description                                    |
+| ---------------- | ---------------------------------------------- |
+| Project Overview | High-level summary of the landing page purpose |
+| Features         | Key UI/UX and technical features               |
+| Tech Stack       | Technologies used in the project               |
+| Getting Started  | Setup instructions for local development       |
+| Live Demo        | Hosted live version of the landing page        |
+| License          | Licensing and usage terms                      |
+
+---
+
+## 📌 Project Overview
+
+**SadieSkin** is a conversion-focused landing page designed for a luxury skincare brand. With a minimalist and elegant aesthetic, it highlights product benefits, brand values, and strong visual storytelling. The site is fully responsive, lightweight, and built to convert visitors into customers through effective CTAs and smooth user journeys.
+
+Whether you’re showcasing a high-end beauty product or building a polished marketing experience, this project is a clean and performant solution.
 
 ---
 
 ## 🚀 Features
 
-* 💎 Premium, modern UI design
-* 📱 Fully responsive across all screen sizes
-* 🎯 Focused product storytelling and CTA placement
-* 🔀 Smooth navigation using `react-router-dom`
-* ⚡ Optimized for speed and performance
-* 🌐 Deployed via Cloudflare Pages
+* 💎 Sophisticated, premium UI design
+* 📱 Mobile-first, responsive across all devices
+* 🧭 Smooth routing using `react-router-dom`
+* 🎯 Focused layout for product storytelling and conversion
+* ⚡ Optimized assets and fast load performance
+* 🌐 Cloudflare Pages deployment for high availability
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-* **Frontend Framework:** React
-* **Styling:** Tailwind CSS
-* **Routing:** React Router DOM
-* **Deployment:** Cloudflare Pages
+| Technology       | Purpose                             |
+| ---------------- | ----------------------------------- |
+| React            | Frontend framework                  |
+| Tailwind CSS     | Styling with utility-first approach |
+| React Router DOM | Navigation between page sections    |
+| Cloudflare Pages | Static site deployment              |
 
 ---
 
-## 📦 Getting Started
+## 📬 Getting Started
 
-### 1. Clone the repository
+1. **Clone the repository:**
 
-```bash
-git clone https://github.com/gursharancodes/sadieskin.git
-cd sadieskin
-```
+   ```bash
+   git clone https://github.com/gursharancodes/sadieskin.git
+   cd sadieskin
+   ```
 
-### 2. Install dependencies
+2. **Install dependencies:**
 
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
-### 3. Start the development server
+3. **Start the development server:**
 
-```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production:**
+
+   ```bash
+   npm run build
+   ```
 
 ---
 
 ## 🌍 Live Demo
 
-[**View SadieSkin Live**](https://sadieskin.pages.dev)
-*Hosted on Cloudflare Pages*
+> [🌐 View SadieSkin Live](https://sadieskin.pages.dev)
+> *Hosted on Cloudflare Pages*
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** and intended for **portfolio and educational use** only.
+**Commercial use requires written permission from the author.**
