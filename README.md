@@ -2,8 +2,8 @@
 
 A luxurious and modern skincare product landing page built with **React** and **Tailwind CSS**, crafted to reflect elegance, purity, and high performance. Designed to drive conversions with focused storytelling, seamless UX, and responsive design.
 
-![React](https://img.shields.io/badge/React-18.x-blue)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-teal)
+![React](https://img.shields.io/badge/React-19.x-blue)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-teal)
 ![Deployment](https://img.shields.io/badge/Deployed-Cloudflare%20Pages-green)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
